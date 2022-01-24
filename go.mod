@@ -1,3 +1,3 @@
-module github.com/Dr-Denzy
+module github.com/Dr-Denzy/parsing-csv-golang
 
-go 1.14
+go 1.17
